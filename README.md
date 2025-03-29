@@ -50,7 +50,7 @@ This project is open-source under the MIT License.
 
 Feel free to fork the repo and improve the script! 🚀
 
-Now, just replace "yourusername" in the GitHub link with your actual username and push it to your repository! 🚀 Let me know if you need help. 😊
+🚀 Let me know if you need help. 😊
 
 
 
