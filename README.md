@@ -12,9 +12,9 @@ This script:
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/yourusername/disk-usage-monitor.git
+• git clone https://github.com/yourusername/disk-usage-monitor.git
 
-cd disk-usage-monitor
+• cd disk-usage-monitor
 
 2️⃣ Make the Script Executable
 
@@ -22,17 +22,17 @@ chmod +x disk_monitor.sh
 
 3️⃣ Run the Script Manually
 
-./disk_monitor.sh
+• ./disk_monitor.sh
 
 ⏰ Automate with Cron Job 
 
 To schedule this script to run every 10 minutes, add it to the crontab:
 
-crontab -e
+• crontab -e
 
 Add this line at the end:
 
-*/10 * * * * /path/to/disk_monitor.sh
+• */10 * * * * /path/to/disk_monitor.sh
 
 📌 Example Output
 
