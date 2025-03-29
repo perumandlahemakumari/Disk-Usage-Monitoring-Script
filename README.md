@@ -12,7 +12,7 @@ This script:
 
 1️⃣ Clone the Repository
 
-• git clone https://github.com/yourusername/disk-usage-monitor.git
+• git clone "https://github.com/perumandlahemakumari/Disk-Usage-Monitoring-Script.git"
 
 • cd disk-usage-monitor
 
